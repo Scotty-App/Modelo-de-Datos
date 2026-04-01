@@ -101,4 +101,4 @@ Progreso            (id_progreso, id_usuario -> Usuarios, id_lenguaje -> Lenguaj
 
 ## Autor
 
-Proyecto desarrollado como ejercicio académico de diseño de bases de datos relacionales.
+José Ramón Castillo Amat (Equipo de SCOTTY).
