@@ -101,4 +101,4 @@ Progreso            (id_progreso, id_usuario -> Usuarios, id_lenguaje -> Lenguaj
 
 ## Autor
 
-José Ramón Castillo Amat (Equipo de SCOTTY).
+José Ramón Castillo Amat (Miembro del Equipo de SCOTTY).
